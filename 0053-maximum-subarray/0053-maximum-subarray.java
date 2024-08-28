@@ -11,6 +11,7 @@ class Solution {
                 sum=0;
             }
         }
+        System.gc();
         return maxSum;
     }
 }
