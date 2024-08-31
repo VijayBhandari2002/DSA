@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VijayBhandari2002/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VijayBhandari2002/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayBhandari2002/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/VijayBhandari2002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/VijayBhandari2002/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/VijayBhandari2002/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VijayBhandari2002/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/VijayBhandari2002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VijayBhandari2002/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
