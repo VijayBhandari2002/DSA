@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VijayBhandari2002/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VijayBhandari2002/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VijayBhandari2002/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VijayBhandari2002/DSA/tree/master/0054-spiral-matrix) |
+| [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
