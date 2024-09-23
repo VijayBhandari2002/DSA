@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/VijayBhandari2002/DSA/tree/master/0907-koko-eating-bananas) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VijayBhandari2002/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VijayBhandari2002/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0907-koko-eating-bananas](https://github.com/VijayBhandari2002/DSA/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
