@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VijayBhandari2002/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/VijayBhandari2002/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/VijayBhandari2002/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VijayBhandari2002/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/VijayBhandari2002/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
