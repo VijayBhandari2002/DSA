@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VijayBhandari2002/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VijayBhandari2002/DSA/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VijayBhandari2002/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VijayBhandari2002/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VijayBhandari2002/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
