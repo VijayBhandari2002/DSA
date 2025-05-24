@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VijayBhandari2002/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/VijayBhandari2002/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/VijayBhandari2002/DSA/tree/master/0907-koko-eating-bananas) |
