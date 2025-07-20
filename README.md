@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/VijayBhandari2002/DSA/tree/master/0907-koko-eating-bananas) |
 | [1603-running-sum-of-1d-array](https://github.com/VijayBhandari2002/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/VijayBhandari2002/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VijayBhandari2002/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VijayBhandari2002/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VijayBhandari2002/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VijayBhandari2002/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VijayBhandari2002/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayBhandari2002/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/VijayBhandari2002/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/VijayBhandari2002/DSA/tree/master/1833-find-the-highest-altitude) |
 ## Linked List
 |  |
