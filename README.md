@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VijayBhandari2002/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/VijayBhandari2002/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VijayBhandari2002/DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/VijayBhandari2002/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VijayBhandari2002/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VijayBhandari2002/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VijayBhandari2002/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/VijayBhandari2002/DSA/tree/master/1603-running-sum-of-1d-array) |
