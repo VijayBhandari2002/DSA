@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VijayBhandari2002/DSA/tree/master/0724-find-pivot-index) |
 | [0906-walking-robot-simulation](https://github.com/VijayBhandari2002/DSA/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/VijayBhandari2002/DSA/tree/master/0907-koko-eating-bananas) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/VijayBhandari2002/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/VijayBhandari2002/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VijayBhandari2002/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VijayBhandari2002/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VijayBhandari2002/DSA/tree/master/0724-find-pivot-index) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/VijayBhandari2002/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/VijayBhandari2002/DSA/tree/master/1833-find-the-highest-altitude) |
