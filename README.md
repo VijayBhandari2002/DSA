@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/VijayBhandari2002/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VijayBhandari2002/DSA/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/VijayBhandari2002/DSA/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/VijayBhandari2002/DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/VijayBhandari2002/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/VijayBhandari2002/DSA/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/VijayBhandari2002/DSA/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Linked List
 |  |
 | ------- |
