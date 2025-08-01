@@ -3,15 +3,14 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
         int sum =0;
         map.put(0,-1);
-        for(int i =0;i<nums.length;i++){
+        for(int i = 0;i<nums.length;i++){
             sum += nums[i];
+            int rem = sum % k;
 
-            int reminder = sum % k;
-
-            if(map.containsKey(reminder) && i - map.get(reminder)>=2){
+            if(map.containsKey(rem) && i - map.get(rem) >=2){
                 return true;
             }
-            map.putIfAbsent(reminder,i);
+            map.putIfAbsent(rem,i);
         }
         return false;
     }
