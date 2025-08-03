@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VijayBhandari2002/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VijayBhandari2002/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VijayBhandari2002/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/VijayBhandari2002/DSA/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/VijayBhandari2002/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VijayBhandari2002/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/VijayBhandari2002/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/VijayBhandari2002/DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VijayBhandari2002/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VijayBhandari2002/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/VijayBhandari2002/DSA/tree/master/0392-is-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/VijayBhandari2002/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
