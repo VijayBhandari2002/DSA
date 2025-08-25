@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/VijayBhandari2002/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/VijayBhandari2002/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
